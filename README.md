@@ -7,6 +7,8 @@
 ![](https://img.shields.io/discord/819956523479334933?style=flat-square&cacheSeconds=0)
 ![](https://hits.sh/github.com/heisenburgah/HYDROXIDE.svg?style=flat-square&label=views)
 
+# NOTE: This is a fork of hydroxide but more updated. Includes esp for the new idol of war for the 1 person that wanted it. All credits go to the owner, heisenburgah
+
 A comprehensive Roblox utility suite for Rogue Lineage and Rogue Lineage Battlegrounds. ~41,000 lines of Lua across two game modules.
 
 **Website:** [hydroxide.solutions](https://hydroxide.solutions) | **Discord:** [discord.gg/fnpNyCsG4u](https://discord.gg/fnpNyCsG4u)
